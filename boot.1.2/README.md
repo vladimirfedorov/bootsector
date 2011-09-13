@@ -1,4 +1,4 @@
-FAT12 and FAT16 bootloader
+FAT12 and FAT16 bootloaders
 ---------------------------
 
 ### bootsect12.asm
